@@ -44,6 +44,7 @@ public int biggerValue(int a, int b) {
 
 _2010-2015_
 **Master degree in Engeneering**
+
 _2022-2023_
 RS SCHOOL [RS School](https://rs.school/).
 
