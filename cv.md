@@ -2,6 +2,7 @@
 ****
 
 # Contact information:
+****
 
 **Location:**  British Columbia, BC
 
@@ -14,6 +15,7 @@ Data analyst with a passion for utilizing data to shape decisions. With engineer
 
 ---------------------------------------------------
 # Skills
+****
 
 * SQL, Power BI
 * Git, GitHub
