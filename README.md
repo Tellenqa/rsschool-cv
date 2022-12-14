@@ -1,1 +1,1 @@
-# rsschool-cv
+https://tellenqa.github.io/rsschool-cv/cv
