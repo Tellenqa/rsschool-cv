@@ -4,7 +4,9 @@
 # Contact information:
 
 **Location:**  British Columbia, BC
+
 **E-mail:**    tellenqa@gmail.com
+
 **GitHub:**    Tellenqa
 
 ---------------------     ----------------------
@@ -51,5 +53,5 @@ RS SCHOOL [RS School](https://rs.school/).
 
 # Languages:
 
-    * English   - Advanced 
-    * Russian   - Native
+* English   - Advanced 
+* Russian   - Native
