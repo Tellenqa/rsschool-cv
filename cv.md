@@ -1,5 +1,5 @@
 ## Elena Tropina 
-****
+
 
 # Contact information:
 ****
